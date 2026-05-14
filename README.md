@@ -1,4 +1,6 @@
 # 📊 Amazon Sales Analysis Dashboard – Power BI Business Intelligence Project
+> Amazon Sales Analysis Dashboard developed using Power BI, Excel, DAX, and Business Intelligence techniques for sales, profitability, and customer behaviour analytics.
+
 
 ## 📌 Project Overview
 
