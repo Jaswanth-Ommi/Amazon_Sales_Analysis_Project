@@ -2,6 +2,7 @@
 Analyzing Amazon Sales Data
 
 📊 Amazon Sales Analysis Dashboard – Power BI Business Intelligence Project
+
 📌 Project Overview
 
 This repository contains a complete Amazon Sales Analysis Dashboard Project developed using Power BI, Excel, DAX, and Business Intelligence techniques.
