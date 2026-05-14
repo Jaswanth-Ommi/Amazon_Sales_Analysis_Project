@@ -24,12 +24,19 @@ The final outcome is a fully interactive Power BI dashboard capable of deliverin
 🚀 Project Highlights
 
 ✅ Built a complete Amazon Sales Analysis Dashboard
+
 ✅ Performed data cleaning and preprocessing
+
 ✅ Created KPI cards and DAX measures
+
 ✅ Developed dynamic and interactive visualizations
+
 ✅ Analyzed sales and profitability trends
+
 ✅ Studied customer purchasing behaviour
+
 ✅ Generated category-wise business insights
+
 ✅ Designed professional business intelligence reports
 
 🛠️ Tools & Technologies Used
@@ -40,6 +47,7 @@ DAX	KPI Calculations & Measures
 CSV / Excel Dataset	Raw Data Source
 Data Visualization	Business Insight Generation
 Business Intelligence	Interactive Reporting & Analytics
+
 📂 Dataset Description
 
 The dataset includes:
